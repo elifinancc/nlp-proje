@@ -32,4 +32,5 @@ streamlit run streamlit_app.py
 Bu proje GitHub'a yüklenmeye hazırdır. `.gitignore` dosyası hassas verilerin (`.env`) yüklenmesini engelleyecektir.
 
 ---
-Geliştiren: Nejdet TUT
+Geliştiren: Elif İnanç
+
